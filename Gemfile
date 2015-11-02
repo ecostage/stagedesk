@@ -16,6 +16,7 @@ group :production, :staging do
 end
 
 group :development, :test do
+  gem "letter_opener"
   gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem 'spring'
