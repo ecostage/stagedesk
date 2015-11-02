@@ -1,7 +1,7 @@
-HelpStage
+StageDesk
 ========
 
-HelpStage is a minimalist customer service / helpdesk app.
+StageDesk is a minimalist customer service / helpdesk app.
 Works well with multi-project organizations.
 
 ## Setup
